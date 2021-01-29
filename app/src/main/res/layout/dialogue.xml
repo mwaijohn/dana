@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+<!--        <TextView-->
+<!--            android:contentDescription="@string/app_name"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:id="@+id/title"-->
+<!--            android:textStyle="bold"-->
+<!--            android:gravity="center"-->
+<!--            android:textSize="20sp"-->
+<!--            android:text="@string/apr_calculations"-->
+<!--            android:layout_marginBottom="10sp"/>-->
+
+        <TextView
+            android:id="@+id/text_policy"
+            android:layout_width="match_parent"
+            android:text="@string/apr"
+            android:gravity="center"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_marginTop="15dp"
+            android:id="@+id/continue_application"
+            android:layout_width="match_parent"
+            android:text="@string/continue_application"
+            android:gravity="right"
+            android:textSize="16dp"
+            android:textColor="@color/colorAccent"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</ScrollView>

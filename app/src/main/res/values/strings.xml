@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Dana Loans</string>
+    <string name="next">continue</string>
+    <string name="terms_and_conditions"><u>Terms and Conditions</u></string>
+    <string name="welcome_to_fuliza_branch">Welcome to Dana Loans</string>
+    <string name="icon">icon</string>
+    <string name="agree_to_privacy_policy">privacy policy</string>
+    <string name="gfastloan">Get fast loan with low interest rate of 12.5%. Loans are disbursed within 24-72 hours. You can repay
+        your loan within a period up to 6 months. After approval your loan will be disbursed to your registered Mpesa account</string>
+    <string name="apr_calculations">APR Calculations</string>
+    <string name="continue_application">Continue application</string>
+    <string name="apr">Loan amount range from Ksh 500 - Ksh 25,000. Tenor range from 90 days(3 months) to six months. 12.5% interest is charged with no facilitation or service fees.
+    We will never ask for other hidden charges. To visualize this if you borrow 5,000 for repayment period of one year with 12.5% interest rate the total interest rate
+    will be 5,000 * 12.5 = 625 Ksh. Effective APR will be 47.2% - 125.2%.</string>
+    <string name="enter_your_phone_number">enter your phone number</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="enter_phone_and_password_to_login">Enter details to login</string>
+    <string name="applied_check_status">Applied? Check status.</string>
+    <string name="request_loan">Request Loan</string>
+    <string name="primary_phone_number">Primary Phone Number</string>
+    <string name="fuliza_branch_mobile_loans">Dana Branch - Mobile Loans</string>
+    <string name="enter_amount_to_apply">Enter amount to apply</string>
+    <string name="thankyou_success">Thank you for allowing us to help you with your financial needs.
+        We are committed to serve our customers in adherence to the prescribed codes of conducts
+        and accounting profession. We are pleased to have you on-board and are eager and ready to serve you at our level best.</string>
+    <string name="you_qualify">You qualify for a loan up to 5000 /=.
+        Continue borrowing with us and repaying your loan to improve your credit score.
+        The loan limit are set using your credit score arrived from credit bureau CRB.
+        Several factors affect your credibility which include your suitability based on money transactions
+        and reliability from previous transactions.</string>
+    <string name="not_applied">Thank you for your interest in our services.
+        You currently do not have an active loan. From our record you have not applied for a loan with us.
+        To apply for a loan go back to the application page and enter the amount you wish to apply.
+        We will review your application and disburse the amount when your application has been approved.
+        Thank you.</string>
+    <string name="applied_already">Your loan application is being reviewed.
+        Please wait patiently as we review your application.
+        You will get a confirmation message to update you on the status of your request.</string>
+    <string name="application_success">We have received your loan application.After review and approval we
+        will disburse the amount to your registered phone number  that is number you used to register to this service.
+        We will take not more than 24–72hrs to complete the approval process.
+        Wait patiently as we review your loan application. Check your loan status regularly to keep track of the progress.
+        Any application rejection will be accompanied with a reason. </string>
+    <string name="privacy_url">https://danaloanq.blogspot.com/</string>
+
+    <string name="rate_us">Rate Us</string>
+    <string name="share_app">Share App</string>
+
+    <string name="banner">836756757081990_836757520415247</string>
+    <string name="interstitial">836756757081990_836758863748446</string>
+    <string name="nativeAd">836756757081990_836760087081657</string>
+    <string name="privacy_policy">https://danaloanq.blogspot.com/</string>
+</resources>
