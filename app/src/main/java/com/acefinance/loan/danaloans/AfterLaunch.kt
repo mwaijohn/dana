@@ -12,7 +12,7 @@ import android.widget.TextView
 import java.lang.Exception
 
 class AfterLaunch : AppCompatActivity() {
-    lateinit var dialogue: AlertDialog.Builder
+    //lateinit var dialogue: AlertDialog.Builder
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_after_launch)
@@ -30,10 +30,11 @@ class AfterLaunch : AppCompatActivity() {
         policy.setOnClickListener {startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.privacy_url)))) }
         val next = findViewById<Button>(R.id.next)
         next.setOnClickListener {
-            dialogue = AppUtils.aprDialog(this)
+            //dialogue = AppUtils.aprDialog(this)
             try {
                 if (checkBox.isChecked){
-                    dialogue.show()
+                    //dialogue.show()
+                    startActivity(Intent(this, LoginActivity::class.java))
                 }else{
                     AppUtils.toastMessage(this,"Agree to our privacy policy")
                 }

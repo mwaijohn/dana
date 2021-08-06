@@ -43,6 +43,7 @@
             style="@style/Base.TextAppearance.AppCompat.Body1"
             android:textColor="#000"
             android:textAllCaps="false"
+            android:visibility="gone"
             android:padding="16dp"
             android:clickable="true"
             android:focusable="true"
